@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://resources-a2n6ck.kiligcoffee.cl/sitemap.xml
